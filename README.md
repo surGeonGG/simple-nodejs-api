@@ -1,11 +1,10 @@
 How to set up a simple api:
 
 1. Download and install nodejs
-2. npm init -y in terminal
-3. npm install express
-4. Create index.js file
-5. Copy contents from index.js on github
-6. node . to start api
+2. npm init -y & npm install express in terminal
+3. Create index.js file
+4. Copy contents from index.js on github
+5. node . to start api
 
 
 Test with:
