@@ -9,7 +9,9 @@ How to set up a simple api:
 
 
 Test with:
+    
     curl -X GET localhost:8080/bible/
+    
     curl -X POST -H "Content-Type: application/json" -d "{\"msg\": \"hello world\"}" localhost:8080/echo/1337/
 
 
